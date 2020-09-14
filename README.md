@@ -12,7 +12,7 @@ You are going to build 2 classes.
 1. A Stack
 2. A Queue
 
-You will a separate array for each class  as your stack or queue
+You will make a separate array for each class  as your stack or queue
 The 2 classes have nothing to do with each other.
 
 
